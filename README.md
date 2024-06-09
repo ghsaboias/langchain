@@ -29,7 +29,7 @@ To get started, follow these steps:
 To run the Langchain studies, execute any of the python scripts in this repo, for example:
 
 ```bash
-python llm.py
+python scripts/llm.py
 ```
 
 ## Contributing
